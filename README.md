@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<a href="mailto:ximena.yeraldin.ll@outlook.es" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/email.png?raw=true" alt="email icon" height="70"/></a>    <a href="https://www.linkedin.com/in/ximena-yeraldin-lopez-lopez-9a8411257/" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/linkedin.png?raw=true" alt="Ximena's LinkedIn" height="70"/></a>   <a href="https://www.linkedin.com/in/ximena-yeraldin-lopez-lopez-9a8411257/" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/instagram.png?raw=true" alt="Ximena's Instagram" height="70"/></a>  <a href="https://www.linkedin.com/in/ximena-yeraldin-lopez-lopez-9a8411257/" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/twitter.png?raw=true" alt="Ximena's Twitter" height="70"/></a>
+<a href="mailto:ximena.yeraldin.ll@outlook.es" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/email.png?raw=true" alt="email icon" height="70"/></a>    <a href="https://www.linkedin.com/in/ximena-yeraldin-lopez-lopez-9a8411257/" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/linkedin.png?raw=true" alt="Ximena's LinkedIn" height="70"/></a>   <a href="https://www.instagram.com/xim.yer/" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/instagram.png?raw=true" alt="Ximena's Instagram" height="70"/></a>  <a href="https://twitter.com/XimenaYeraldin" target="_blank"><img src="https://github.com/ximyer/ximyer/blob/main/images/twitter.png?raw=true" alt="Ximena's Twitter" height="70"/></a>
 
 </div>
 
