@@ -18,7 +18,7 @@
 - 🌱 Actualmente estoy aprendiendo ... sobre el
 - 📚 Actualmente estoy leyendo: _Emma_ de Jane Austen!
 - 😄 Pronombre ... Ella
-- 🎵 Música Favorita ... _El Fantasma de la Ópera_ de Andrew Lloyd-Weber y _Amor Sin Barreras_ de Leonard Bernstein y Stephen Sondheim.
+- 🎵 Música Favorita ... _El Fantasma de la Ópera_ de Andrew Lloyd-Webber y _Amor Sin Barreras_ de Leonard Bernstein y Stephen Sondheim.
 - ⚡ Dato Curioso: ... Me llamaron "Yeraldin" gracias a la actriz estadounidense Geraldine Chaplin, pero curiosamente nací el mismo día que su padre, Charles Chaplin (16 de abril).
 
 
