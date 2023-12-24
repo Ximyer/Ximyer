@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning ... About Contradictory Truths and the Metaverse!
 - 📚 I'm currently reading... _Emma_ by Jane Austen!
 - 😄 Pronouns ... She/her
-- 🎵 Favorite Music(als) ... _The Phantom of the Opera_ by Andrew Lloyd-Weber and _West Side Story_ by Leonard Bernstein and Stephen Sondheim.
+- 🎵 Favorite Music(als) ... _The Phantom of the Opera_ by Andrew Lloyd-Webber and _West Side Story_ by Leonard Bernstein and Stephen Sondheim.
 - ⚡ Fun fact: ... I was named 'Yeraldin' after the American actress Geraldine Chaplin, but I was curiously born on the same day as her father, Charles Chaplin (April 16th).
 
 
