@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine ;
+}
+
+h1{
+    color: crimson;
+    text-align:center;
+}
+
+h2{
+    color: #FFFB73;
+    text-align:right;
+}
+
+.titles{
+    background-color: aqua;
+    text-align:center;
+}
+
+img{
+    height:150px;
+    object-fit: cover;
+    border-radius:35px;
+    border:10px solid #9ED2BE
+}
