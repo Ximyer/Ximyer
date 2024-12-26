@@ -14,9 +14,9 @@
 
 
 ### About me:
-- 🔭 I’m currently working on ... The Metaverse 
-- 🌱 I’m currently learning ... About Contradictory Truths and the Metaverse!
-- 📚 I'm currently reading... _Emma_ by Jane Austen!
+- 🔭 I’m currently working on ... AR/VR Swift Projects! 
+- 🌱 I’m currently learning ... Multivariable Calculus!
+- 📚 I'm currently reading... _100 Years of Solitude_ by Gabriel García Márquez!
 - 😄 Pronouns ... She/her
 - 🎵 Favorite Music(als) ... _The Phantom of the Opera_ by Andrew Lloyd-Webber and _West Side Story_ by Leonard Bernstein and Stephen Sondheim.
 - ⚡ Fun fact: ... I was named 'Yeraldin' after the American actress Geraldine Chaplin, but I was curiously born on the same day as her father, Charles Chaplin (April 16th).
@@ -50,15 +50,11 @@
 <div align="right">
   <h3>Other Technologies</h3>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48px" /></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48px" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48px" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48px" /></a>
   <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="48px" /></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48px" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48px" /></a>  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48px" /></a>  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" alt="Canva" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+</a>  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" alt="Canva" width="40" height="40"/> </a>
 
 </div>
 
